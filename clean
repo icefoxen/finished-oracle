@@ -1,0 +1,5 @@
+#!/bin/sh
+/bin/rm -rf *.cmo *.cmi *.cmx
+/bin/rm -rf *~
+/bin/rm -rf *.o
+/bin/rm -rf a.out 

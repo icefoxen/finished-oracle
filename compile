@@ -1,0 +1,5 @@
+#!/bin/sh
+
+FILES="oracle.ml"
+
+ocamlc -c $FILES

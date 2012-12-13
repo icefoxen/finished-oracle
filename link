@@ -1,0 +1,6 @@
+#!/bin/sh
+
+FILES="oracle.cmo"
+
+#ocamlc -o oracle $FILES
+ocamlmktop -o oracle $FILES
